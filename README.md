@@ -67,12 +67,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-    <a href="https://github.com/TanyaVerma26">
-        <img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da5da724-db77-4cb8-951e-9d9eaa8a0232" />
-" width="100px;" alt="Tanya Verma" />
-        <br />
-        <sub><b>Tanya Verma</b></sub>
-    </a>
+  <a href="https://github.com/TanyaVerma26">
+    <img src="https://github.com/user-attachments/assets/da5da724-db77-4cb8-951e-9d9eaa8a0232" width="100px;" alt="Tanya Verma" />
+    <br />
+    <sub><b>Tanya Verma</b></sub>
+</a>
 </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
